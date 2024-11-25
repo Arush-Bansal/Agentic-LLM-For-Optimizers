@@ -5,7 +5,7 @@ import re
 
 # Replace 'YOUR_API_KEY' with your actual OpenAI API key
 client = OpenAI(
-    api_key =  r'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'
+    api_key =  r''
 )
 
 
