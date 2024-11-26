@@ -1,3 +1,13 @@
 tester.py
 **/*.json
 **/*.png
+outputs/
+OWNERS
+BUILD
+METADATA
+.DS_Store
+.coverage
+.vscode
+*.egg-info
+__pycache__/
+opro-env/
